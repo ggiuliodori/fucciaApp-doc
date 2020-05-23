@@ -1,0 +1,24 @@
+{
+  "name": "afiliadosAltoRiesgo-doc",
+  "version": "1.0.0",
+  "description": "track de la documentación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vuepress dev",
+    "start-prod": "vuepress dev -p 80",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+ 
+  ],
+  "author": "ggiuliodori",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
