@@ -81,6 +81,8 @@
 
 :::
 
+::: warning 
+
 # Dudas Generales
 
 ## Servicios Rest
@@ -92,3 +94,7 @@
 ## Funcionalidades  
     - Definir quién estará a cargo del desarrollo de las funcionalidades 
         en caso de no existir.
+
+::: tip
+- RECOMENDAMOS QUE TODOS LOS SERVICIO/FUNCIONALIDADES QUE SE DESEAN IMPLEMENTAR EN LA APP, SEAN SERVICIOS REST
+:::
